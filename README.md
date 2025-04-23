@@ -19,7 +19,6 @@ This is a personal SQL practice project built using the classic DVD Rental datas
 
 ## 📁 Dataset Info
 - Source: PostgreSQL Sample Database
-- Download: https://www.postgresqltutorial.com/postgresql-sample-database/
 
 ## 🔗 Key Insights
 - Top 10 customers by total payments
